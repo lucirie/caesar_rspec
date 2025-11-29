@@ -15,4 +15,4 @@ def caesar_cipher(string, key)
   string_arr.join('')
 end
 
-puts caesar_cipher('What a string!', 5) # => "Bmfy f xywnsl!"
+# puts caesar_cipher('What a string!', 5) # => "Bmfy f xywnsl!"
